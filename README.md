@@ -1,8 +1,8 @@
-Pokemon React Application
+🔥🌊Pokemon React Application🍃⚡️🦟
 
+Refresh the page to determine if you have a winning or losing hand base off of the cumulative experince of each pokemon.
 
-
-
+<img width="1672" alt="Screen Shot 2019-06-13 at 2 32 46 PM" src="https://user-images.githubusercontent.com/25596786/59458354-187b6f00-8dcf-11e9-9414-10e5ab8cd3c1.png">
 
 
 
